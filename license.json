@@ -1,5 +1,5 @@
 {
   "expiration": 20261231,
-  "active": false,
-  "versionMinimum": 20260320
+  "active": true,
+  "versionMinimum": 20260326
 }
